@@ -7,7 +7,7 @@ export default function Header(){
         <>
           <header className="flex flex-col items-center justify-center mb-5 xl:flex-row xl:justify-between">
           <div>
-          <h1 className="font-bold uppercase tracking-wide text-4xl mb-3"> Invoice </h1>
+          <h1 className="text-red-800 font-bold uppercase tracking-wide text-5xl mb-3"> Invoice </h1>
           </div>
           {/* <div>
           <ul className="flex items-center justify-between flex-wrap">
